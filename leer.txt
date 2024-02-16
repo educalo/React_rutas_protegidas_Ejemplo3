@@ -1,0 +1,6 @@
+1.- npm install
+2.- npm start
+
+3.- npm i react-use     para manejarnos con el localStorage
+
+4.- Para visualizar localStorage en Chrome, botón derecho, inspeccionar, aplication, izquierda abajo local Storage
